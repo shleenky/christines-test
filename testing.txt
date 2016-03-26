@@ -1,0 +1,10 @@
+# This is a <h1> tag.
+## This is an <h2> tag.
+
+*This text will be italic*
+_So will this_
+
+**This will be bold**
+__This will be too__
+
+*You **can** combine them*
